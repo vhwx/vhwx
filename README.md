@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vhw18
-- 👀 I’m interested in all-things Azure and infrastructure-as-code.
+- 👀 I’m interested in all-things Azure and infrastructure-as-code. 🚀
 
 <!---
 vhw18/vhw18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
